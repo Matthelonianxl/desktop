@@ -167,10 +167,15 @@ codemirror-mode-elixir@1.1.1:
   dependencies:
     codemirror "^5.20.2"
 
-codemirror@^5.20.2, codemirror@^5.31.0:
+codemirror@^5.20.2:
   version "5.33.0"
   resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.33.0.tgz#462ad9a6fe8d38b541a9536a3997e1ef93b40c6a"
   integrity sha512-HT6PKVqkwpzwB3jl5hXFoQteEWXbSWMzG3Z8RVYlx8hZwCOLCy4NU7vkSB3dYX3e6ORwRfGw4uFOXaw4rn/a9Q==
+
+codemirror@^5.58.2:
+  version "5.64.0"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.64.0.tgz#182eec65b62178e3cd1de8f9d88ab819cfe5f625"
+  integrity sha512-fqr6CtDQdJ6iNMbD8NX2gH2G876nNDk+TO1rrYkgWnqQdO3O1Xa9tK6q+psqhJJgE5SpbaDcgdfLmukoUVE8pg==
 
 color-convert@^1.9.0:
   version "1.9.0"
